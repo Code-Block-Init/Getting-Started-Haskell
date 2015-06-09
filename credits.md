@@ -9,3 +9,5 @@ Some list of cool haskell pickup resources that i dated... (^_^)
 [6] <a href="https://github.com/katychuang/getting-started-with-haskell">Some tutorials and tips</a><br>
 [7] <a href="https://github.com/bos/stanford-cs240h">Functional Systems in haskell [Stanford course]</a><br>
 [8] <a href="https://github.com/dlanner/99-haskell-problems">99 Haskell Problems</a><br>
+[9] <a href="http://book.realworldhaskell.org/read/">Real World Haskell</a><br>
+[10] <a href="http://courses.cs.washington.edu/courses/cse341/08au/haskell/">Haskell and Functional Programming [university of washington]</a><br>
