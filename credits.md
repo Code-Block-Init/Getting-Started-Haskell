@@ -8,3 +8,4 @@ Some list of cool haskell pickup resources that i dated... (^_^)
 [5] <a href="https://github.com/copton/haskell-examples">Some random examples</a><br>
 [6] <a href="https://github.com/katychuang/getting-started-with-haskell">Some tutorials and tips</a><br>
 [7] <a href="https://github.com/bos/stanford-cs240h">Functional Systems in haskell [Stanford course]</a><br>
+[8] <a href="https://github.com/dlanner/99-haskell-problems">99 Haskell Problems</a><br>
