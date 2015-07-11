@@ -8,8 +8,6 @@ pop = State $ \(x:xs) -> (x,xs)
 push :: Int -> State Stack ()  
 push a = State $ \xs -> ((),a:xs) 
 
-
-
 stackStuff :: State Stack ()  
 stackStuff = do  
     a <- pop  
